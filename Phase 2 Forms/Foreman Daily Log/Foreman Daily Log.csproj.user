@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\P2ShopUser\Desktop\Daily Log Installer\|C:\Users\P2ShopUser\Desktop\|C:\Users\|C:\Program Files %28x86%29\Foreman Daily Log\|C:\Program Files %28x86%29\</PublishUrlHistory>
+    <InstallUrlHistory>\\Users\P2ShopUser\Desktop\Daily Log Installer\|\\P2-SBS\Users\P2ShopUser\My Documents\Phase 2 Daily Log\|\\Users\P2ShopUser\Desktop\|\\Users\P2ShopUser\Downloads\|\\P2-SBS\Users\P2ShopUser\My Documents\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,43 @@
+C:\Users\P2ShopUser\Desktop\StoredData.txt
+C:\Users\P2ShopUser\Desktop\Foreman Daily Log.exe.config
+C:\Users\P2ShopUser\Desktop\Foreman Daily Log.exe.manifest
+C:\Users\P2ShopUser\Desktop\Foreman Daily Log.application
+C:\Users\P2ShopUser\Desktop\Foreman Daily Log.exe
+C:\Users\P2ShopUser\Desktop\Foreman Daily Log.pdb
+C:\Users\P2ShopUser\Desktop\dje\Foreman Daily Log.resources.dll
+C:\Users\P2ShopUser\Desktop\test\StoredData.txt
+C:\Users\P2ShopUser\Desktop\test\Foreman Daily Log.exe.config
+C:\Users\P2ShopUser\Desktop\test\Foreman Daily Log.exe.manifest
+C:\Users\P2ShopUser\Desktop\test\Foreman Daily Log.application
+C:\Users\P2ShopUser\Desktop\test\Foreman Daily Log.exe
+C:\Users\P2ShopUser\Desktop\test\Foreman Daily Log.pdb
+C:\Users\P2ShopUser\Desktop\test\dje\Foreman Daily Log.resources.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\StoredData.txt
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\Foreman Daily Log.exe.config
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\Foreman Daily Log.exe.manifest
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\Foreman Daily Log.application
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\Foreman Daily Log.exe
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\Foreman Daily Log.pdb
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\dje\Foreman Daily Log.resources.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.csprojAssemblyReference.cache
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Interop.OutlookSocialProvider.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.csproj.ResolveComReference.cache
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Phase_2_Forms.Daily_Log.resources
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman_Daily_Log.Properties.Resources.resources
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Phase_2_Forms.Daily_Log.dje.resources
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.csproj.GenerateResource.cache
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.csproj.CoreCompileInputs.cache
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\dje\Foreman Daily Log.resources.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.exe.manifest
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.application
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.csproj.CopyComplete
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.exe
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Debug\Foreman Daily Log.pdb
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\libeay32.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\libgcc_s_dw2-1.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\mingwm10.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\ssleay32.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\wkhtmltox0.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\Common.Logging.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\Pechkin.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Debug\Pechkin.Synchronized.dll

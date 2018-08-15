@@ -1,0 +1,29 @@
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\libeay32.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\libgcc_s_dw2-1.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\mingwm10.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\ssleay32.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\wkhtmltox0.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\StoredData.txt
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\Foreman Daily Log.exe.config
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\Foreman Daily Log.exe.manifest
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\Foreman Daily Log.application
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\Foreman Daily Log.exe
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\Foreman Daily Log.pdb
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\dje\Foreman Daily Log.resources.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\Common.Logging.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\Pechkin.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\bin\Release\Pechkin.Synchronized.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.csprojAssemblyReference.cache
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Interop.OutlookSocialProvider.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.csproj.ResolveComReference.cache
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Phase_2_Forms.Daily_Log.resources
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman_Daily_Log.Properties.Resources.resources
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Phase_2_Forms.Daily_Log.dje.resources
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.csproj.GenerateResource.cache
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.csproj.CoreCompileInputs.cache
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\dje\Foreman Daily Log.resources.dll
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.exe.manifest
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.application
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.csproj.CopyComplete
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.exe
+\\P2-SBS\Users\P2ShopUser\My Documents\GitHub\Phase-2-Forms-Application\Phase 2 Forms\Phase 2 Forms\obj\Release\Foreman Daily Log.pdb
